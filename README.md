@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/104042227?v=4" width=115><br><sub>Tiago Rodrigo Sebben</sub>](https://github.com/tiagorsebben) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/104042227?v=4" width=115><br><sub>Tiago Rodrigo Sebben</sub>](https://github.com/tiagorsebben) ||
 | :---: | :---: |
